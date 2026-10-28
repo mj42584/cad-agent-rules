@@ -1,6 +1,5 @@
 # Agent rules for 3D design projects
 
-*Version 0.1 — experimental.*
 
 Working rules for designing a 3D model with an AI agent (Claude Code or similar) driving CAD software: who decides, how the model is built, how changes are recorded and documented.
 
