@@ -8,6 +8,8 @@ Working rules for designing a 3D model with an AI agent (Claude Code or similar)
 | English | [AGENT_RULES_3D.md](AGENT_RULES_3D.md) |
 | Français | [REGLES_AGENT_3D.md](REGLES_AGENT_3D.md) |
 
+**SolidCraft + GitHub + Claude Code** (French, shorter, tool-specific): [REGLES_SOLIDCRAFT_GITHUB_CLAUDE.md](REGLES_SOLIDCRAFT_GITHUB_CLAUDE.md).
+
 ## What they are for
 
 An agent that drives CAD software works fast, but leaves a model that is hard to follow: changes nobody approved, unnamed features, values hidden in expressions, decisions that only exist in a past conversation. These rules keep the human in charge and the project readable:
